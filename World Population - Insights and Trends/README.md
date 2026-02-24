@@ -1,7 +1,5 @@
-# Data-Analysis_01-IDA-EDA-
-Step-by-step guide to learn IDA and EDA on a dataset
-
 # World Population Data Analysis - Insights and Trends Overview
+Step-by-step guide to learn IDA and EDA on a dataset
 
 ## Steps Covered
 - Imported dataset
