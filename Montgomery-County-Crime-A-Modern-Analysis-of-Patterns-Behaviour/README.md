@@ -6,6 +6,8 @@ The goal is to uncover crime patterns, behavioural trends, hotspots, and key ins
 
 ## Dataset Description
 
+*Access dataset here: https://catalog.data.gov/dataset/crime*
+
 This study is based on a crime incidents database created and maintained by the Montgomery County Police Department, fully compliant with the National Incident-Based Reporting System (NIBRS).
 
 Includes every reported crime incident from 2018 to 2022
